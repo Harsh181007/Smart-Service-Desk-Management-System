@@ -21,7 +21,7 @@ Organizations managing IT support tickets manually face lost requests, duplicate
 
 ## Project Folder Structure
 ```text
-smart-service-desk/
+Smart-Service-Desk-Management-System/
 ├── domain/
 │   ├── __init__.py
 │   ├── service_request.py
@@ -37,5 +37,3 @@ smart-service-desk/
 ├── main.py
 ├── README.md
 └── .gitignore
-
-Admin Passcode for Resolving Requests: admin123
